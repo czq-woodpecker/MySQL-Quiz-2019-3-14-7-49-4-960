@@ -1,1 +1,5 @@
+practice1
+SQL:
+SELECT * FROM employee_db.Employee where salary > 6000 and name like '%n%'
+result:
 '1','xiaohong','19','female','1','7000'
